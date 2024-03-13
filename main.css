@@ -4,6 +4,42 @@
     font-weight: bold;
 }
 
+.pagenum {
+    
+    position: absolute;
+    right: 1%;
+    font-size: small;
+    
+}
+
+p {
+    text-align: justify;
+    
+    margin: .75em; 
+}
+
+pre {
+  margin:100px auto;
+  width: 50%;
+  
+}
+
+
+
+
+a{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+pre > a {
+    text-decoration: underline;
+    color: black;
+}
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
 .noin {
